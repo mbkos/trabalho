@@ -1,6 +1,7 @@
 body{
-    background-color: antiquewhite;
+    background-color: rgb(255, 181, 128);
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     border: 15px;
+    text-align: center;
 }
